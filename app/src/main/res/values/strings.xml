@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GB_JPG2PNG_MVPRX</string>
+    <string name="choose_jpg">Choose JPG…</string>
+    <string name="png_file">Png file…</string>
+    <string name="choose_jpg_btn">Choose JPG</string>
+    <string name="cancel">Cancel</string>
 </resources>
